@@ -1,0 +1,14 @@
+/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app
+/System/Applications/Messages.app
+/Applications/WhatsApp.app
+/Applications/Discord.app
+/System/Applications/Music.app
+/Applications/Xcode.app
+/Applications/Zed.app
+/System/Applications/Utilities/Terminal.app
+/Applications/GitHub Desktop.app
+/System/Applications/Notes.app
+/Applications/Screenshot Studio.app
+/System/Applications/Passwords.app
+/System/Applications/System Settings.app
+/System/Applications/Photos.app
