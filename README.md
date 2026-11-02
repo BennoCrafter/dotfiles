@@ -1,11 +1,11 @@
 # dotfiles
 
-My mac setup.
+my macos dotfiles
 
 ## new mac
 
 ```sh
-xcode-select --install          # git
+xcode-select --install
 git clone https://github.com/BennoCrafter/dotfiles ~/dotfiles
 sh ~/dotfiles/scripts/install.sh
 ```
@@ -30,4 +30,5 @@ After installing apps or rearranging the Dock: `sh ~/dotfiles/scripts/update.sh`
 
 ## Manual steps
 
-- [ ] Sign into iCloud / App Store
+- [ ] Sign into iCloud
+- [ ] Register mail accounts
