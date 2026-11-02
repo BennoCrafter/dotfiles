@@ -15,6 +15,8 @@ brew "python"
 brew "pylint"
 # Extremely fast Python linter, written in Rust
 brew "ruff"
+# Safe, concurrent, practical language
+brew "rust"
 # Formatting tool for reformatting Swift code
 brew "swiftformat"
 # OCR (Optical Character Recognition) engine
